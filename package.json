@@ -1,0 +1,14 @@
+{
+  "name": "ay",
+  "version": "0.0.0",
+  "description": "AY website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Ashton",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
